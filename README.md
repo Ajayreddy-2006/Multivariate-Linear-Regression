@@ -36,8 +36,8 @@ Print the coefficients, intercept, and the predicted CO2 value.
 ```
 '''
 Program for multivariate linear regression and to predict a unknown variable using the given dataset.
-Developed By: K Santhan Kumar
-Register Number: 212223240065
+Developed By: T.Ajay
+Register Number: 212223230007
 '''
 import pandas as pd
 from sklearn import linear_model
@@ -52,7 +52,7 @@ predictCO2=regr.predict([[3300,1300]])
 print("Predicted CO2 for the corresponding weight and volume",predictCO2)
 ```
 ## Output:
-![image](https://github.com/SANTHAN-2006/Multivariate-Linear-Regression/assets/80164014/9a29e2bd-868a-41aa-bfae-4c83a388ab6f)
+![Screenshot 2023-12-27 182433](https://github.com/Ajayreddy-2006/Multivariate-Linear-Regression/assets/145742508/d0922010-a75f-44de-893a-520f7c8c9a59)
 
 ## Result
 Thus the multivariate linear regression is implemented and predicted the output using python program.
